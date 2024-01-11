@@ -51,7 +51,7 @@
 To recommend a crop, input the values for Nitrogen, Phosphorus, Potassium, temperature, humidity, pH, and rainfall into the `recommend_crop` function.
 
 Example:
-python
+
 recommended_crop = recommend_crop(90, 40, 40, 25, 80, 6.5, 100)
 print(f"The recommended crop is: {recommended_crop}")
 
